@@ -1,10 +1,7 @@
 #include <stdio.h>
 
 /*
- * main_entry point
- *
- * Description: C program to print the size of functions with sizeof function
- *
+ * main - program to print the size of functions with sizeof function
  * Return always 0 (success)
 */
 
