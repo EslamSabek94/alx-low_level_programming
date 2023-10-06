@@ -1,10 +1,7 @@
 #include <unistd.h>
 
 /*
- * main_entry point
- *
- * Description: print a qoute using write function
- *
+ * main - print a qoute using write function
  * write (int fd.const void *buf.size_t count)
  * Return: 1 (not success)
 */
