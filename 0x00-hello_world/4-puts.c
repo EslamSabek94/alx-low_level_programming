@@ -1,11 +1,8 @@
 #include <stdio.h>
 
-/*
- *main - entry point
- *
- *Description: c program that print with puts function
- *
- *Return: always 0 (success)
+/**
+ * main - a program that prints a line with puts function
+ * Return: 0 (success)
 */
 
 int main(void)
