@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - program to print the size of functions with sizeof function
  * Return always 0 (success)
 */
