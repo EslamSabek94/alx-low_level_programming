@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <time.h>
+#include <stdlib.h>
 /**
  * main - print all aphapet letters in lower case
  *
@@ -8,14 +9,10 @@
 
 int main(void)
 {
-	char ch = 'a';
+	char c;
 
-	while (ch = 'a')
-	{
-		putchar(ch)
-		ch++;
-	}
-	putchar(\n);
-
-	return (0);
+	for (c = 'a'; c <= 'z'; c++)
+		putchar(c);
+		putchar('\n');
+		return (0);
 }
