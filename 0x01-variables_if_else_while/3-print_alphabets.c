@@ -2,8 +2,8 @@
 
 /**
  * main - entry point
- * description: print alphabet in lower & upper case
- * return 0 9success)
+ * Description: print alphabet in lower & upper case
+ * Return: 0 (success)
 */
 
 int main(void)
