@@ -1,18 +1,22 @@
 #include <stdio.h>
-#include <time.h>
-#include <stdlib.h>
+
 /**
- * main - print all aphapet letters in lower case
- *
- * Return: 0 (success)
+ * main - entry point
+ * description: print the alphabet lowercase
+ * return: 0 (success)
 */
 
 int main(void)
 {
-	char c;
+	char l;
 
-	for (c = 'a'; c <= 'z'; c++)
-		putchar(c);
-		putchar('\n');
-		return (0);
+	l = 'a';
+	while
+		(l <= 'z')
+	{
+		putchar(l);
+		l++;
+	}
+	putchar('\n');
+	return (0);
 }
