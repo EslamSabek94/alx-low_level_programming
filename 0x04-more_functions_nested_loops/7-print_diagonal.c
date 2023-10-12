@@ -3,8 +3,8 @@
 /**
  * print_diagonal - print a diagonal line
  * @n: is the number of times \ character should be printed
+ * Return: 0 (success)
 */
-
 void print_diagonal(int n)
 {
 	int postn, space;
